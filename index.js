@@ -3,5 +3,5 @@ function add(a, b){
 }
 function add1(){}
 function add12(){
-
+    console.log(3);
 }
