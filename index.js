@@ -3,6 +3,7 @@ function add(a, b){
 }
 function add1(){
     console.log(333);
+    console.log(111);
     console.log(3);
     console.log(1);
 }
