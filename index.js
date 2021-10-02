@@ -5,5 +5,6 @@ function add1(){
     console.log(2);
 }
 function add12(){
-
+    console.log(3);
+    console.log(4);
 }
