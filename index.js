@@ -2,6 +2,7 @@ function add(a, b){
     return a + b;
 }
 function add1(){
+    console.log(111);
     console.log(3);
     console.log(1);
 }
